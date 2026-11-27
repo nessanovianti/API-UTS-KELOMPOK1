@@ -1,0 +1,14 @@
+{
+  "name": "api-uts",
+  "version": "1.0.0",
+  "description": "REST API Express.js dan PostgreSQL - Toko Online ATK",
+  "main": "src/server.js",
+  "scripts": {
+    "start": "node src/server.js"
+  },
+  "dependencies": {
+    "dotenv": "^16.6.1",
+    "express": "^4.22.3",
+    "pg": "^8.23.1"
+  }
+}
